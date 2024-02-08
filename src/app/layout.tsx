@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   description: "We provide a platform for artisans and crafters to showcase and sell their unique handcrafted items.",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
